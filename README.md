@@ -1,2 +1,3 @@
-# Geothermal_Heating_Network_Design
-Geothermal heating network design
+# Plate_Heat_Exchanger_Design
+
+In the repository code, report and data files can be found for plate heat exchanger design.
